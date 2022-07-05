@@ -107,7 +107,6 @@ When evaluating your code, I will look at the architecture of your code base, ch
 Bonus tasks will give extra points but cannot affect your score negatively. If you have time left, you should do them.
 - use Typescript
 - create PWA
-- field/data validation
 
 
 ## Due Date  
