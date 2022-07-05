@@ -116,7 +116,7 @@ Bonus tasks will give extra points but cannot affect your score negatively. If y
 
 
 ## Submission
-- Push the project to Github after completion and [send me](shashank@veranstaltungsbutler.de) the repo link
+- Push the project to Github after completion and [send me](mailto:shashank@veranstaltungsbutler.de) the repo link
 - [Schedule code review](https://tinyurl.com/react-code-review)
 
 ### Good Luck
