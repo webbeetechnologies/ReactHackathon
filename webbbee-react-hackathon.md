@@ -70,7 +70,7 @@ My goal with this test is to give you the ability to show off your skills under 
 7. On deleting a field from an inventory category, the field should be deleted from all the items belonging to the category.
 8. On updating the type of a field, the field type change should reflect in the inventory manager as well for this category.
 9. On updating the label of a field, the change should also be updated for all items of the category.
-10. On deleting an inventory category, the related category items will also be deleted.
+10. On deleting an inventory category, the items belonging to the category will also be deleted.
 11. Application should be adapted to Mobile, Tablet and Desktop browsers
 12. UX should be good; you do not have to make a clone of the UI from the demo
 
