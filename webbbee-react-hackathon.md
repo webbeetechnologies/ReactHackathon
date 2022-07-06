@@ -48,7 +48,7 @@ My goal with this test is to give you the ability to show off your skills under 
 
 #### Inventory Manager
 **![](https://lh5.googleusercontent.com/ybnndBcBAZHAVIpkUHVGqvyRozL9JG3aWE5VfkYCRM0fFgi3gUHNtz0PMtdsX90FR0XDlERD5oXVI39vK7rwvZqd1HYGDDkTzOkwRA3Ae5he51YI_lg5yoSIrARfZ8Zf81C3QrVn1yn4hV1hHg)**
-1. As a user, I want to see all the items in the database.
+1. As a user, I want to see all the items available in the store.
 3. As a user, I want to see filtered items of a selected inventory category.
 4. As a user, I want to able to create, delete, update an inventory item from the Inventory Manager.
 
