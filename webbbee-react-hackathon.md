@@ -56,7 +56,7 @@ We will grade your project by 5 attributes, each on a scale of 1-10. If an attri
 5. Code style & architecture 1-10
 
 ## Hints
-1. 4/10 people fail on feature completeness because they did not read the project description carefully or asked questions. Our tip: Read carefully and ask if you dont understand something 100 %. You can even ask questions during implementing the project - we are here to help!
+1. 4/10 people fail on feature completeness because they did not read the project description carefully or asked questions. Our tip: Read carefully, check if your project fullfills every user story and ask if you dont understand something 100 %. You can even ask questions during implementing the project - we are here to help!
 2. 5/10 people fail because their code is buggy and they have not tested it properly for edge cases. If you test < 2 hours the chance is high, you belong to this category. Our tip: test your stuff!
 
 ## Code review
