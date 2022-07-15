@@ -1,5 +1,3 @@
-
-
 # Webbee React Hackathon
 
 
@@ -13,16 +11,19 @@ The company Construction Machine Management Inc. manages a fleet of diverse buil
 3. As a staff member I want that attributes can be date, text, checkbox or number
 4. As a staff member I want that all machines of one type share attributes (all cranes have a weight, manufacture date as well as a maximum lift weight for example)
 5. As a staff member I want to set a title for a machine type (Chainsaw, Bulldozer, ...)
-6. As a staff member I want to be able to add new machine types as well as to edit or delete existing ones at any time
-7. As a staff member I want to have many machines of each machine type ( for example 6 chainsaws from different brands that have different characteristics)
-8. As a staff member, I want to be able to filter by machine type (See all chain saws, all bull dozers, ...).
-9. As a staff member I want to see all machines grouped by their type on one screen
-10. As a staff member I want to be able to add new machines as well as to edit or delete existing ones at any time
-11. As a staff member I want to use URL navigation
-12. As a staff member I want that everything is saved even after page reload
-13. As a staff member I want to use the app on my mobile phone or tablet as well as on the computer
+6. As a staff member I want to select a title field for the machines of a machine category.
+7. As a staff member I want to be able to add new machine types as well as to edit or delete existing ones at any time
+8. As a staff member I want to have many machines of each machine type ( for example 6 chainsaws from different brands that have different characteristics)
+9. As a staff member, I want to be able to filter by machine type (See all chain saws, all bull dozers, ...).
+10. As a staff member I want to see all machines grouped by their type on one screen
+11. As a staff member I want to be able to add new machines as well as to edit or delete existing ones at any time
+12. As a staff member I want to use URL navigation
+13. As a staff member I want that everything is saved even after page reload
+14. As a staff member I want to use the app on my mobile phone or tablet as well as on the computer
 
-**For a demo watch the following video: [>> Watch it on youtube](https://drive.google.com/open?id=1fQnDIv8Q-JL5mKf9qaT7ajrMA2ACfYJU)** 
+
+
+**For a demo watch the following video: [>> Watch it on youtube](https://drive.google.com/open?id=1fQnDIv8Q-JL5mKf9qaT7ajrMA2ACfYJU)**
 
 ## Do's
 - use a library of your choice for the UI.
@@ -30,7 +31,7 @@ The company Construction Machine Management Inc. manages a fleet of diverse buil
 - use ES6
 - use React
 - use Redux for state management
-- use create-react-app ([https://github.com/facebook/create-react-app])
+- use [create-react-app](https://github.com/facebook/create-react-app)
 - use local storage
 - preferably, write function components.
 
@@ -43,7 +44,7 @@ Bonus tasks will give extra points but cannot affect your score negatively. If y
 - create PWA (progressive web app)
 
 
-## Due Date  
+## Due Date
 - starting from the date of receiving the test, you have **until the sun rises again** to submit it.
 
 ## Grading
