@@ -9,9 +9,9 @@ The company Construction Machine Management Inc. manages a fleet of diverse buil
 1. As a staff member I want to have different machine types (bull dozers, cranes, chainsaws, ...)
 2. As a staff member I would like to specify which attributes the machine type has **once** (weight, power, manufacturing date, ...)
 3. As a staff member I want that attributes can be date, text, checkbox or number
-4. As a staff member I want that all machines of one type share attributes (all cranes have a weight, manufacture date as well as a maximum lift weight for example)
-5. As a staff member I want to set a title for a machine type (Chainsaw, Bulldozer, ...)
-6. As a staff member I want to select a title field for the machines of a machine category.
+4. As a staff member I want that all machines of one type share attributes (all cranes have a model, weight, manufacture date as well as a maximum lift weight for example)
+5. As a staff member I want to pick one of the attributes as a title attribute for the machines of one type (For eg. model).
+6. As a staff member I want to set a title for a machine type (Chainsaw, Bulldozer, ...)
 7. As a staff member I want to be able to add new machine types as well as to edit or delete existing ones at any time
 8. As a staff member I want to have many machines of each machine type ( for example 6 chainsaws from different brands that have different characteristics)
 9. As a staff member, I want to be able to filter by machine type (See all chain saws, all bull dozers, ...).
@@ -60,6 +60,6 @@ We will grade your project by 5 attributes, each on a scale of 1-10. If an attri
 2. 5/10 people fail because their code is buggy and they have not tested it properly for edge cases. If you test < 2 hours the chance is high, you belong to this category. Our tip: test your stuff!
 
 ## Code review
-If you are done, please schedule a code review with me under  [https://tinyurl.com/tobicodereview](https://tinyurl.com/react-code-review). In this call I will grade your code and give you feedback for your personal learning. Also send me the repo url via an email shashank@veranstaltungsbutler.de.
+If you are done, please schedule a code review with me under  [https://tinyurl.com/react-code-review](https://tinyurl.com/react-code-review). In this call I will grade your code and give you feedback for your personal learning. Also send me the repo url via an email shashank@veranstaltungsbutler.de.
 
 ### Good luck  🍀
