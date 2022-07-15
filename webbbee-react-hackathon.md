@@ -40,7 +40,7 @@ The company Construction Machine Management Inc. manages a fleet of diverse buil
 ## Bonus tasks
 Bonus tasks will give extra points but cannot affect your score negatively. If you have time left, you should do them.
 - use Typescript
-- create PWA
+- create PWA (progressive web app)
 
 
 ## Due Date  
@@ -49,11 +49,10 @@ Bonus tasks will give extra points but cannot affect your score negatively. If y
 ## Grading
 We will grade your project by 5 attributes, each on a scale of 1-10. If an attribute dips below 7 it disqualifies your solution. For every bonus task done well we will add 0,5 points. You need an average score of at least 8 to pass this round.
 
-1. Project discussion 1-10
-2. Feature completeness 1-10
-3. User friendliness 1-10
-4. No edge cases & bug free 1-10
-5. Code style & architecture 1-10
+1. Feature completeness 1-10
+2. User friendliness 1-10
+3. No edge cases & bug free 1-10
+4. Code style & architecture 1-10
 
 ## Hints
 1. 4/10 people fail on feature completeness because they did not read the project description carefully or asked questions. Our tip: Read carefully, check if your project fullfills every user story and ask if you dont understand something 100 %. You can even ask questions during implementing the project - we are here to help!
