@@ -2,8 +2,6 @@
 
 # Webbee React Hackathon
 
-*Questions are always welcome.*
-
 
 ## Problem statement:
 The company Construction Machine Management Inc. manages a fleet of diverse building machines and rents them out to building companies. The director Mr. Chechnik manages those with multiple paper staple folders. He would like to manage the inventory on his computer and asks you to develop an application for that purpose.  
