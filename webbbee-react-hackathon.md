@@ -59,6 +59,6 @@ We will grade your project by 5 attributes, each on a scale of 1-10. If an attri
 2. 5/10 people fail because their code is buggy and they have not tested it properly for edge cases. If you test < 2 hours the chance is high, you belong to this category. Our tip: test your stuff!
 
 ## Code review
-If you are done, please schedule a code review with me under  [https://tinyurl.com/tobicodereview](https://tinyurl.com/react-code-review). In this call I will grade your code and give you feedback for your personal learning.
+If you are done, please schedule a code review with me under  [https://tinyurl.com/tobicodereview](https://tinyurl.com/react-code-review). In this call I will grade your code and give you feedback for your personal learning. Also send me the repo url via an email shashank@veranstaltungsbutler.de.
 
 ### Good luck  🍀
